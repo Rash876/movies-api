@@ -9,4 +9,4 @@ Key Requirements :
 - REST API built via API Gateway
 - role created via AWS IAM with appropriate IAM policy
 
-1. A
+
