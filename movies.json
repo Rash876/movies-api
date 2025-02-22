@@ -1,0 +1,229 @@
+{
+  "movies-data": [
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Fast Times at Ridgemont High"},
+                "releaseYear": {"S": "1982"},
+                "genre": {"S": "Comedy Romance"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Longlegs"},
+                "releaseYear": {"S": "2024"},
+                "genre": {"S": "Crime Horror"}                      
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Surfer"},
+                "releaseYear": {"S": "2024"},
+                "genre": {"S": "Psychological Suspense Thriller"}                      
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Arcadian"},
+                "releaseYear": {"S": "2024"},
+                "genre": {"S": "Action Horror"}                     
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Retirement Plan"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Crime Comedy Thriller"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Dream Scenario"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Comedy Horror"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Sympathy for the Devil"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Action Thriller"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Flash"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Action Sci-fi"}                     
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Renfield"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Comedy Horror"}                    
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Old Way"},
+                "releaseYear": {"S": "2023"},
+                "genre": {"S": "Western Action"}                     
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Butcher's Crossing"},
+                "releaseYear": {"S": "2022"},
+                "genre": {"S": "Western Adventure"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Unbearable Weight of Massive Talent"},
+                "releaseYear": {"S": "2022"},
+                "genre": {"S": "Comedy Action"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Pig"},
+                "releaseYear": {"S": "2021"},
+                "genre": {"S": "American Drama"}                    
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Willy's Wonderland"},
+                "releaseYear": {"S": "2021"},
+                "genre": {"S": "Action Horror"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Prisoners of the Ghostland"},
+                "releaseYear": {"S": "2021"},
+                "genre": {"S": "Action Horror"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "The Croods: A New Age"},
+                "releaseYear": {"S": "2020"},
+                "genre": {"S": "Comedy Adventure"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Jiu Jitsu"},
+                "releaseYear": {"S": "2020"},
+                "genre": {"S": "Action Sci-fi"}                   
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Grand Isle"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Action Thriller"}                    
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Primal"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Action Thriller"}                     
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Kill Chain"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Action Thriller"}                    
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Running with the Devil"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Crime Thriller"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Color Out of Space"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Horror Sci-fi"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "A Score to Settle"},
+                "releaseYear": {"S": "2019"},
+                "genre": {"S": "Action Thriller"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Spider-Man: Into the Spider-Verse"},
+                "releaseYear": {"S": "2018"},
+                "genre": {"S": "Action"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {"S": "Between Worlds"},
+                "releaseYear": {"S": "2018"},
+                "genre": {"S": "Supernatural Thriller"}
+            }
+        }
+    }            
+  ]
+}
